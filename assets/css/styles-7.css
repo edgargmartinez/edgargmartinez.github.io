@@ -57,7 +57,7 @@ p {
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 .sidebar-wrapper {
-  background: #333333;
+  background: #777777;
   position: absolute;
   right: 0;
   width: 240px;
@@ -247,7 +247,7 @@ p {
 }
 .skillset .level-bar-inner {
   height: 12px;
-  background: #7ec6bb;
+  background: #999999;
 }
 .footer {
   padding: 30px;
