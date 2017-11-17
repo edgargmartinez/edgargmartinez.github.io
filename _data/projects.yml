@@ -1,24 +1,23 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description: "My current research interests are:"
 
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
-- project:
-  title: DevStudio
+  title: Pore-scale modeling
   link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  #tagline: "A responsive website template designed to help startups promote, market and sell their products."
 - project:
-  title: Tempo
+  title: Pore network models
   link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  #tagline: "A responsive website template designed to help web developers/designers market their services."
 - project:
-  title: Atom
+  title: Flow and transport phenomena
   link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 - project:
-  title: Delta
+  title: Image processing
   link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+- project:
+  title: Percolation theory in displacement processes
+  link: "#"
+  #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
