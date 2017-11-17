@@ -1,5 +1,5 @@
 # Site Settings
-title: Edgar G. Martínez
+title: Edgar G. Martínez-Mendoza
 url: 'https://edgargmartinez.github.io/'
 baseurl: 'edgargmartinez.github.io' #change it according to your repository name
 
@@ -11,13 +11,14 @@ baseurl: 'edgargmartinez.github.io' #change it according to your repository name
 #style: styles-6
 
 #Profile information
-name: Edgar Giovani Martínez-Mendoza
+name: Edgar G. Martínez-Mendoza
 tagline: Petroleum Engineer
 pic: profile_egmm.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: I am currently working on my master’s thesis in the Earth Sciences Graduated Program 
+at Universidad Nacional Autónoma de México, which is advised by Dr. Martin Diaz-Viera from Mexican Petroleum Institute 
+ <a href="https://www.researchgate.net/profile/Martin_Diaz-Viera" target="_blank">download this free resume/CV template here</a>. The purpose of my research is to use pore network models in EOR simulations.
+My research purpose is to use pore network models in EOR simulations.
+
 
 #sidebar links
 email: edgargmartinezm@gmail.com
