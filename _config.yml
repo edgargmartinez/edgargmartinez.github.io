@@ -14,18 +14,18 @@ baseurl: 'edgargmartinez.github.io' #change it according to your repository name
 name: Edgar G. Martínez-Mendoza
 tagline: Petroleum Engineer
 pic: profile_egmm.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: I am currently working on my master’s thesis in the Earth Sciences Graduated Program 
-at Universidad Nacional Autónoma de México, which is advised by Dr. Martin Diaz-Viera from Mexican Petroleum Institute. The purpose of my research is to use pore network models in EOR simulations.
-My research purpose is to use pore network models in EOR simulations.
+summary: 'I am currently working on my master’s thesis in the Earth Sciences Graduated Program 
+at Universidad Nacional Autónoma de México, which is advised by <a href="https://www.researchgate.net/profile/Martin_Diaz-Viera" >Dr. Martin Diaz-Viera</a>
+from Mexican Petroleum Institute. My research purpose is to use pore network models in EOR simulations.'
 
 
 #sidebar links
 email: edgargmartinezm@gmail.com
 phone: 012 345 6789
 website: edgargmartinez.github.io #do not add http://
-linkedin: alandoe
+linkedin: none
 github: edgargmartinez
-twitter: '@webjeda'
+twitter: '@none'
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker
