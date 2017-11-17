@@ -16,7 +16,9 @@ tagline: Petroleum Engineer
 pic: profile_egmm.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'I am currently working on my master’s thesis in the Earth Sciences Graduated Program 
 at Universidad Nacional Autónoma de México, which is advised by <a href="https://www.researchgate.net/profile/Martin_Diaz-Viera" >Dr. Martin Diaz-Viera</a>
-from Mexican Petroleum Institute. My research purpose is to use pore network models in EOR simulations.'
+from Mexican Petroleum Institute. My research purpose is to use pore network models in EOR simulations.
+<br><br>
+You can <a href="http://esmg-mx.org/Grupo/Maestria/CV/CV_edgar_en.pdf" target="_blank">download my full resume here</a>.'
 
 
 #sidebar links
