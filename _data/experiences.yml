@@ -1,11 +1,11 @@
 - experience:
   role: Research stay
-  time: 2018 - Current
+  time: 2018 
   company: University of Waterloo
-  details: "This stay addresses on multiphase transport in porous media and the open source pore-network modeling project, 
+  details: 'This stay addresses on multiphase transport in porous media and the open source pore-network modeling project, 
   <a href="http://openpnm.org/">OpenPNM</a>. 
   <br> <br>
-  Supervised by <a href="https://uwaterloo.ca/chemical-engineering/profile/jgostick"> Dr. Jeff Gostick</a>"
+  Supervised by <a href="https://uwaterloo.ca/chemical-engineering/profile/jgostick">Dr. Jeff Gostick</a>'
 - experience:
   role: Thesis student 
   time: 2015 - 2016
