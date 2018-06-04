@@ -1,25 +1,29 @@
 {% if site.data.presentations %}
 <section class="section presentations-section">
-
   <h2 class="section-title"><i class="fa fa-bar-chart"></i>Presentations</h2>
 
-  {% for intro in site.data.presentations %}
-  <div class="intro">
-      <p>{{ intro.description }}</p>
-  </div><!--//intro-->
-  {% endfor%}
+{% for presentation in site.data.presentations %}
+  <div class="item">
 
-  {% for presentation in site.data.presentations %}
-    <div class="item">
+    <div class="meta">
 
-      <span class="presentation-title"><a href="{{ presentation.link }}">{{ presentation.title }}</a></span>
+      <div class="upper-row">
+        <h3 class="job-title">{{ presentation.role }}</h3>
+        <div class="time">{{ presentation.time }}</div>
+      </div><!--//upper-row-->
 
-      {% if presentation.tagline %}
-      - <span class="presentation-tagline">{{ presentation.tagline }}</span>
-      {% endif %}
+      <div class="company">{{ presentation.company }}</div>
 
-    </div><!--//item-->
-  {% endfor %}
+    </div><!--//meta-->
+
+    {% if presentation.details %}
+    <div class="details">
+      <p>{{ presentation.details }}</p>
+    </div><!--//details-->
+    {% endif %}
+
+  </div><!--//item-->
+{% endfor %}
 
 </section><!--//section-->
 {% endif %}
