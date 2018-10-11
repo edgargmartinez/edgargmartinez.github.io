@@ -1,0 +1,25 @@
+{% if site.data.researchinterests %}
+<section class="section projects-section">
+
+  <h2 class="section-title"><i class="fa fa-rebel"></i>Research Interests</h2>
+
+  {% for intro in site.data.researchinterests %}
+  <div class="intro">
+      <p>{{ intro.description }}</p>
+  </div><!--//intro-->
+  {% endfor%}
+
+  {% for interest in site.data.researchinterests %}
+    <div class="item">
+
+      <span class="project-title"><a href="{{ interest.link }}">{{ interest.title }}</a></span>
+
+      {% if interest.tagline %}
+      - <span class="project-tagline">{{ interest.tagline }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
