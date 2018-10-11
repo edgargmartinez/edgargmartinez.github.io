@@ -1,23 +1,5 @@
-- intro:
-  description: "My current research interests are:"
+- project:
+  title: A research group website based on Jekyll
+  link: "https://github.com/esmg-mx/esmg-mx.github.io"
+  tagline: "Support and development for the ESMG-MX's website"
 
-- project:
-  title: Pore-scale modeling
-  link: "#"
-  #tagline: "A responsive website template designed to help startups promote, market and sell their products."
-- project:
-  title: Pore network models
-  link: "#"
-  #tagline: "A responsive website template designed to help web developers/designers market their services."
-- project:
-  title: Flow and transport phenomena
-  link: "#"
-  #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-- project:
-  title: Image processing
-  link: "#"
-  #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-- project:
-  title: Percolation theory in displacement processes
-  link: "#"
-  #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
