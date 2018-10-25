@@ -1,12 +1,20 @@
 - presentation:
+  title: "Low Salinity Waterflooding simulation via Pore Network Models: Salinity Impact on Capillary Pressure and Relative Permeability Curves"
+  company: AIPM Technical Conferences, October 2018
+  pdf: AIPM2018-egmm
+- presentation:
   title: Fluid Flow Property Estimation Using a Pore Network Modeling Approach
   company: InterPore 10th Annual Meeting and Jubilee, May 2018
+  pdf: INTERPORE2018-egmm
 - presentation:
   title: Comparative Study of Pore Network Modeling Software for the Characterization of Porous Media OpenPNM and PoreFlow
   company: Fourth Annual Meeting of Mexican Chapter of InterPore, November 2017
+  pdf: RACMI2017-egmm
 - presentation:
   title: Methodology for Porous Media Characterization at Pore Scale through Pore Network Modeling
   company: Third Annual Meeting of Mexican Chapter of InterPore, October 2016
+  pdf: RACMI2016-egmm
 - presentation:
   title: Methodology for Obtaining Effective Flow Properties Employing a Pore Network Model
   company: AIPM Technical Conferences, October 2015
+  pdf: AIPM2015-egmm
