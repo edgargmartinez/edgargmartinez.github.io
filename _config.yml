@@ -14,9 +14,7 @@ style: styles-7
 name: Edgar G. Martínez-Mendoza
 tagline: Petroleum Engineer
 pic: profile_egmm.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'I am currently working on my master’s thesis in the Earth Sciences Graduated Program 
-at Universidad Nacional Autónoma de México, which is advised by <a href="https://www.researchgate.net/profile/Martin_Diaz-Viera" >Dr. Martin Diaz-Viera</a>,
-researcher from the Mexican Petroleum Institute. My research purpose is to use pore network models in EOR simulations.
+summary: 'I am fresh graduated MSc student in Modeling from National Autonomous University of Mexico. I am seeking challenges in pore-scale imaging and modeling in porous media, upstream oil & gas industry, and data science. 
 <br><br>
 You can <a href="https://www.dropbox.com/sh/pwszsx7b3wac143/AADQ1_J2-dYEXl_lUqnw-FXRa?dl=0" target="_blank">download my full resume here</a>.'
 objective: 'Pursue an InterPore Student Travel Award to attend <a href="https://events.interpore.org/event/2/">the InterPore 10th Annual Meeting and Jubilee</a>.'
