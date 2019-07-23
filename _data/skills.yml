@@ -1,4 +1,10 @@
 - skill:
+  name: C#
+  level: 20%
+- skill:
+  name: Azure DevOps
+  level: 20%
+- skill:
   name: Python 
   level: 70%
 - skill:
