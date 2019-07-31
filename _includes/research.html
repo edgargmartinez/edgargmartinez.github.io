@@ -1,0 +1,24 @@
+{% if site.data.research %}
+<section class="section research-section">
+  <h2 class="section-title"><i class="fa fa-bar-chart"></i>Research</h2>
+
+{% for research in site.data.research %}
+  <div class="item">
+
+    <div class="meta">
+      <div class="upper-row">
+        <p>
+        <class="details">{{ research.authors }}, ({{ research.year }})</div>
+        <a href="/media/{{ research.pdf }}.pdf"><h3 class="job-title">{{ research.title }}</h3></a>
+        <class="details">{{ research.journal }}</div>
+        <a href=" https://doi.org/{{ research.doi }}">{{ research.doi }}</a>
+        <class="details">Note: {{ research.note }}</div>
+        </p>
+      </div><!--//upper-row-->
+    </div><!--//meta-->
+
+  </div><!--//item-->
+{% endfor %}
+
+</section><!--//section-->
+{% endif %}
