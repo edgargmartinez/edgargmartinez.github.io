@@ -1,0 +1,44 @@
+- research:
+  title: Capillary pressure and relative permeability estimation for low salinity waterflooding processes using pore network models
+  authors: "Martínez-Mendoza, Edgar G. and Díaz-Viera, Martín A. and Coronado, Manuel and Mendoza-Rosas, Ana T."
+  journal: Journal of Petroleum Science and Engineering
+  year: 2019
+  doi: "10.1016/j.petrol.2019.106253"
+  note: 
+  pdf: Martinez2019a
+  
+- research:
+  title: "Metodología basada en modelos de red de poros para la estimación de propiedades efectivas de flujo en medios porosos: caso de estudio para una arenisca"
+  authors: "Martínez-Mendoza, Edgar G. and Díaz-Viera, Martín A."
+  journal: "Modelación matemática III: biomatemáticas e ingeniería"
+  year: 2019
+  doi:
+  note: Spanish
+  pdf: Martinez2019b
+ 
+- research:
+  title: Rock-fluid property estimation through pore network models for low salinity waterflooding process simulation
+  authors: "Martínez-Mendoza, Edgar G."
+  journal: "Universidad Nacional Autónoma de México"
+  year: 2018
+  doi:
+  note: "Unpublished thesis, M.S. (Spanish)"
+  pdf: Martinez2018a
+
+- research:
+  title: Study of the impact of salinity change in a LSWF process on capillary pressure and relative permeability curves by flow and transport modeling at pore network scale
+  authors: "Martínez-Mendoza, Edgar G. and Díaz-Viera, Martín A."
+  journal: "National Institute of Copyright, Mexico"
+  year: 2018b
+  doi:
+  note: Spanish
+  pdf: Martinez2018b
+
+- research:
+  title: Pore network models for obtaining effective flow and transport properties in petroleum reservoirs
+  authors: "Martínez-Mendoza, Edgar G."
+  journal: "Universidad Nacional Autónoma de México"
+  year: 2016
+  doi:
+  note: "Unpublished thesis, B.S. (Spanish)"
+  pdf: Martinez2016
