@@ -1,7 +1,7 @@
 # Site Settings
 title: Edgar G. Martínez-Mendoza
 url: 'https://edgargmartinez.github.io/'
-baseurl: 'edgargmartinez.github.io/edgargmartinez.github.io' #change it according to your repository name
+baseurl: 'edgargmartinez.github.io' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
